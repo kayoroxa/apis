@@ -61,15 +61,15 @@
   },
   {
     "text": "Hoje é o amanhã com que nos preocupamos ontem.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "É mais fácil ver os erros no papel de outra pessoa.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Todo homem morre. Nem todo homem realmente vive.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Para fazer as pessoas andarem atrás delas.",
@@ -109,7 +109,7 @@
   },
   {
     "text": "O dia já está abençoado, encontre a paz nele.",
-    "autor": nulo
+    "autor": ""
   },
   {
     "text": "De erro em erro, descobre-se toda a verdade.",
@@ -145,7 +145,7 @@
   },
   {
     "text": "De pequenos começos vêm grandes coisas.",
-    "autor": nulo
+    "autor": ""
   },
   {
     "text": "Aprender é um tesouro que seguirá seu dono por toda parte",
@@ -333,11 +333,11 @@
   },
   {
     "text": "É preciso sol e chuva para fazer um arco-íris.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Uma coisa bonita nunca é perfeita.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Faça apenas o que seu coração lhe diz.",
@@ -385,7 +385,7 @@
   },
   {
     "text": "Cada novo dia é mais uma chance de mudar sua vida.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Sorria, respire e vá devagar.",
@@ -405,7 +405,7 @@
   },
   {
     "text": "Alguns buscam a felicidade, outros a criam.",
-    "autor": nulo
+    "autor": ""
   },
   {
     "text": "Quem é tonto pensa que o mundo gira.",
@@ -421,7 +421,7 @@
   },
   {
     "text": "Fazemos o que fazemos porque acreditamos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Faça todos os dias algo que te assuste.",
@@ -449,7 +449,7 @@
   },
   {
     "text": "Quanto mais forte você cai, mais alto você pula.",
-    "autor": nulo
+    "autor": ""
   },
   {
     "text": "Confiar em nossa intuição geralmente nos salva de desastres.",
@@ -477,7 +477,7 @@
   },
   {
     "text": "Todos sorriem na mesma língua.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Ontem me atrevi a lutar. Hoje me atrevo a vencer.",
@@ -549,7 +549,7 @@
   },
   {
     "text": "Você pode fazer o que é razoável ou pode decidir o que é possível.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Nada fortalece a autoridade tanto quanto o silêncio.",
@@ -573,7 +573,7 @@
   },
   {
     "text": "A amizade não é grande coisa. É um milhão de pequenas coisas.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "O tempo é a coisa mais valiosa que um homem pode gastar.",
@@ -593,7 +593,7 @@
   },
   {
     "text": "Um bom plano hoje é melhor do que um plano perfeito amanhã.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Se o sapato não couber, devemos trocar o pé?",
@@ -625,7 +625,7 @@
   },
   {
     "text": "Alguém se lembra, alguém se preocupa; seu nome é sussurrado nas orações de alguém.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Sem fé nada é possível. Com ela nada é impossível.",
@@ -637,7 +637,7 @@
   },
   {
     "text": "Não se deixe levar pelos seus problemas; deixe-se levar pelos seus sonhos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Tudo o que esperamos com confiança torna-se nossa própria profecia autorrealizável.",
@@ -665,7 +665,7 @@
   },
   {
     "text": "Mude seus pensamentos, mude sua vida!",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Nunca ignore um pressentimento, mas nunca acredite que é o suficiente.",
@@ -681,7 +681,7 @@
   },
   {
     "text": "Hoje é o amanhã com o qual você se preocupou ontem.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Não há caminho para a felicidade, a felicidade é o caminho.",
@@ -689,11 +689,11 @@
   },
   {
     "text": "O dia sempre parece mais brilhante por trás de um sorriso.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Um tropeço pode impedir uma queda.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Quem fala mais cedo se esgota.",
@@ -721,7 +721,7 @@
   },
   {
     "text": "Coloque o seu futuro em boas mãos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Escolhemos o nosso destino na forma como tratamos os outros.",
@@ -909,7 +909,7 @@
   },
   {
     "text": "O que você vê depende do que está procurando.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "O coração tem razões que a razão desconhece.",
@@ -937,7 +937,7 @@
   },
   {
     "text": "A preocupação dá a uma coisa pequena uma grande sombra.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Os medos nada mais são do que um estado de espírito.",
@@ -1089,11 +1089,11 @@
   },
   {
     "text": "Para obter algo que você nunca teve, você deve fazer algo que nunca fez.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Agradeça quando você não souber algo, pois isso lhe dá a oportunidade de aprender.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A força não vem da capacidade física. Vem de uma vontade indomável.",
@@ -1117,7 +1117,7 @@
   },
   {
     "text": "Abandonar não é o fim do mundo; é o início de uma nova vida.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Todos os grandes artistas com quem trabalhei foram alimentados por um sonho pessoal.",
@@ -1161,11 +1161,11 @@
   },
   {
     "text": "Nossa maior glória não é nunca falhar, mas nos elevar sempre que caímos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Estar certo é altamente superestimado. Mesmo um relógio parado está certo duas vezes por dia.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Ficar chateado com o que você não tem é desperdiçar o que você tem.",
@@ -1185,7 +1185,7 @@
   },
   {
     "text": "O amor não é cego; simplesmente permite ver coisas que os outros não conseguem ver.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A vida é um processo. Nós somos um processo. O universo é um processo.",
@@ -1205,7 +1205,7 @@
   },
   {
     "text": "Se você se levantar mais uma vez do que cair, você conseguirá passar.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "As portas que abrimos e fechamos a cada dia decidem a vida que vivemos.",
@@ -1221,7 +1221,7 @@
   },
   {
     "text": "Não se concentre em tomar a decisão certa, concentre-se em tomar a decisão certa.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Tudo é perfeito no universo, até mesmo o seu desejo de melhorá-lo.",
@@ -1273,11 +1273,11 @@
   },
   {
     "text": "Amor é apenas uma palavra até que alguém apareça e lhe dê um significado.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Todos nós temos problemas. A forma como os resolvemos é o que nos torna diferentes.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "O segredo para uma vida rica é ter mais começos do que fins.",
@@ -1433,7 +1433,7 @@
   },
   {
     "text": "Invente o seu mundo. Cerque-se de pessoas, cores, sons e trabalhos que o nutrem.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "É fatal entrar em qualquer guerra sem a vontade de vencê-la.",
@@ -1561,7 +1561,7 @@
   },
   {
     "text": "Cada dia pode não ser bom, mas há algo de bom em cada dia.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Muitas pessoas são tão felizes quanto decidem ser.",
@@ -1573,7 +1573,7 @@
   },
   {
     "text": "Algumas pessoas pensam que segurar é o que torna uma pessoa forte, às vezes é deixá-la ir.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "É nos nossos fracassos que alicerçamos um sucesso novo, diferente e melhor.",
@@ -1665,7 +1665,7 @@
   },
   {
     "text": "Por que se preocupar com coisas que você não pode controlar quando pode se manter ocupado controlando as coisas que dependem de você?",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Quando você se contentar em ser simplesmente você mesmo e não se comparar ou competir, todos irão respeitá-lo.",
@@ -1785,7 +1785,7 @@
   },
   {
     "text": "É melhor dar muitos pequenos passos na direção certa do que dar um grande salto para a frente e tropeçar para trás.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Se tivermos uma atitude mental positiva, mesmo quando rodeados de hostilidade, não nos faltará paz interior.",
@@ -1885,7 +1885,7 @@
   },
   {
     "text": "Enquanto o resto do mundo está saindo pela porta, seus melhores amigos são aqueles que entram.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Paciência é uma virtude, mas você nunca alcançará nada se não exercitar a ação sobre a paciência.",
@@ -1997,7 +1997,7 @@
   },
   {
     "text": "Por que se comparar com os outros? Ninguém no mundo inteiro pode ser você melhor do que você.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Experiência não é o que acontece a um homem. É o que um homem faz com o que acontece a ele.",
@@ -2005,7 +2005,7 @@
   },
   {
     "text": "Um bom professor é como uma vela que se consome para iluminar o caminho para os outros.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A única coisa a fazer com um bom conselho é transmiti-lo. Nunca é útil para si mesmo.",
@@ -2013,7 +2013,7 @@
   },
   {
     "text": "A vida não se mede pelas respirações que respiramos, mas pelos momentos que respiramos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A menor flor é um pensamento, uma vida que responde a alguma característica do Grande Todo, de quem eles têm uma intuição persistente.",
@@ -2113,7 +2113,7 @@
   },
   {
     "text": "A medida real de sua riqueza é quanto valeria se perdesse todo o seu dinheiro.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Manter o corpo em boa saúde é um dever ... do contrário, não seremos capazes de manter a mente forte e clara.",
@@ -2205,7 +2205,7 @@
   },
   {
     "text": "Embora ninguém possa voltar atrás e fazer um novo começo, qualquer um pode começar agora e fazer um novo final.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A mente é tudo: músculos, pedaços de borracha. Tudo o que sou, sou por causa da minha mente.",
@@ -2217,7 +2217,7 @@
   },
   {
     "text": "Amigo é alguém que entende o seu passado, acredita no seu futuro e o aceita do jeito que você é.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Uma das bênçãos dos velhos amigos é que você pode se dar ao luxo de ser estúpido com eles.",
@@ -2313,7 +2313,7 @@
   },
   {
     "text": "Desistir nem sempre significa que você é fraco. Às vezes, significa que você é forte o suficiente para deixar ir.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Trate as pessoas como se fossem o que deveriam ser e você as ajuda a se tornarem o que são capazes de ser.",
@@ -2409,7 +2409,7 @@
   },
   {
     "text": "Nunca perca uma oportunidade de fazer os outros felizes, mesmo que tenha que deixá-los em paz para fazê-lo.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Dê tudo de si porque nunca se sabe se haverá uma próxima vez.",
@@ -2469,7 +2469,7 @@
   },
   {
     "text": "Ontem é história. Amanhã é um mistério. E hoje? Hoje é um presente, por isso o chamam de presente.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A única maneira de dizer a verdade é falar com bondade. Só se ouvem as palavras de um homem amoroso.",
@@ -2493,7 +2493,7 @@
   },
   {
     "text": "Quando você não sabe em que acredita, tudo se torna um argumento. Tudo é discutível. Mas quando você defende algo, as decisões são óbvias.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A intuição é a supralógica que elimina todos os processos rotineiros de pensamento e salta direto do problema para a resposta.",
@@ -2517,7 +2517,7 @@
   },
   {
     "text": "Cada sessenta segundos que você passa com raiva, chateado ou bravo, é um minuto completo de felicidade que você nunca terá de volta.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Este mundo, depois de todas as nossas ciências e ciências, ainda é um milagre; maravilhoso, inescrutável, mágico e muito mais, para quem quiser pensar nele.",
@@ -2593,7 +2593,7 @@
   },
   {
     "text": "Se estivermos na direção certa, tudo o que temos a fazer é continuar caminhando.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Lembre-se sempre de que você não apenas tem o direito de ser um indivíduo, mas também a obrigação de sê-lo.",
@@ -2665,7 +2665,7 @@
   },
   {
     "text": "Paz de espírito não é a ausência de conflito na vida, mas a capacidade de lidar com ele.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Enfrente suas deficiências e reconheça-as; mas não deixe que elas o dominem. Deixe que elas lhe ensinem paciência, doçura, discernimento.",
@@ -2821,7 +2821,7 @@
   },
   {
     "text": "Um obstáculo pode ser um trampolim ou uma pedra de tropeço.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A dor passa, mas a beleza permanece.",
@@ -2945,7 +2945,7 @@
   },
   {
     "text": "Nunca vi um rosto sorridente que não fosse bonito.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Em todas as coisas da natureza há algo de maravilhoso.",
@@ -2981,7 +2981,7 @@
   },
   {
     "text": "Bondade é a maior sabedoria.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A ação removerá as dúvidas que a teoria não pode resolver.",
@@ -2989,7 +2989,7 @@
   },
   {
     "text": "Não perca todas as belas cores do arco-íris procurando aquele pote de ouro.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Sua grande oportunidade pode estar exatamente onde você está agora.",
@@ -3017,11 +3017,11 @@
   },
   {
     "text": "Você não se afoga ao cair na água. Você se afoga ao ficar lá.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Nunca tenha medo de tentar, lembre-se ... Amadores construíram a arca, Profissionais construíram o Titanic.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "A correção faz muito, mas o incentivo faz mais.",
@@ -3201,7 +3201,7 @@
   },
   {
     "text": "Um sorriso é uma luz na janela do seu rosto para mostrar que seu coração está em casa.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Espere a primavera como um momento em que você poderá começar a ver o que a natureza tem a oferecer mais uma vez.",
@@ -3225,7 +3225,7 @@
   },
   {
     "text": "Você pode ser apenas alguém no mundo, mas para outra pessoa, você pode ser o mundo.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Cada artista mergulha seu pincel em sua própria alma e pinta sua própria natureza em seus quadros.",
@@ -3293,7 +3293,7 @@
   },
   {
     "text": "Uma curva na estrada não é o fim da estrada ... a menos que você não faça a curva.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Somos o que fazemos repetidamente. Excelência, então, não é um ato, mas um hábito.",
@@ -3321,7 +3321,7 @@
   },
   {
     "text": "Quem faz uma pergunta é um tolo por cinco minutos; quem não faz uma pergunta permanece um tolo para sempre.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "O poder da compreensão intuitiva irá protegê-lo de danos até o fim de seus dias.",
@@ -3397,7 +3397,7 @@
   },
   {
     "text": "Coragem é descobrir que você não pode vencer e tentar quando sabe que pode perder.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Ser atencioso e gentil leva apenas alguns segundos em comparação com a dor atemporal causada por um gesto rude.",
@@ -3801,7 +3801,7 @@
   },
   {
     "text": "Um bom descanso é metade do trabalho.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Não julgue cada dia pela colheita que você faz, mas pelas sementes que você planta.",
@@ -3861,7 +3861,7 @@
   },
   {
     "text": "Todas as flores de todos os amanhãs estão nas sementes de hoje.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Seu espaço sagrado é onde você pode se encontrar continuamente.",
@@ -3925,7 +3925,7 @@
   },
   {
     "text": "Um homem não está onde vive, mas onde ama.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "O preço da grandeza é a responsabilidade.",
@@ -3941,7 +3941,7 @@
   },
   {
     "text": "O mundo não acontece com você, acontece com você.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Não podemos resolver nossos problemas com o mesmo pensamento que usamos quando os criamos.",
@@ -3949,7 +3949,7 @@
   },
   {
     "text": "Mais poderosa do que a vontade de vencer é a coragem de começar.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Aprender é descobrir o que você já sabe.",
@@ -4037,7 +4037,7 @@
   },
   {
     "text": "O que vemos é principalmente o que procuramos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Fique longe do que poderia ter sido e veja o que será.",
@@ -4145,7 +4145,7 @@
   },
   {
     "text": "Não espere que as pessoas sejam amigáveis. Mostre-lhes como.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Uma gema não pode ser polida sem fricção, nem um homem aperfeiçoado sem provas.",
@@ -4249,7 +4249,7 @@
   },
   {
     "text": "Não deixe que as decepções de hoje joguem uma sombra sobre os sonhos de amanhã.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Você sempre consegue produzir um resultado.",
@@ -4277,7 +4277,7 @@
   },
   {
     "text": "Nunca deixe a falta de dinheiro atrapalhar sua diversão.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Excelência não é uma habilidade. É uma atitude.",
@@ -4345,7 +4345,7 @@
   },
   {
     "text": "Quem tem saúde tem esperança, e quem tem esperança tem tudo.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Todas as grandes conquistas requerem tempo.",
@@ -4397,7 +4397,7 @@
   },
   {
     "text": "As dificuldades da vida têm como objetivo nos tornar melhores, não amargos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Qualidade significa fazer certo quando ninguém está olhando.",
@@ -4405,7 +4405,7 @@
   },
   {
     "text": "Mude suas palavras. Mude seu mundo.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Grandes atos são feitos de pequenas ações.",
@@ -4417,7 +4417,7 @@
   },
   {
     "text": "Mentes abertas levam a portas abertas.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Eles podem fazer tudo porque pensam que podem.",
@@ -4445,7 +4445,7 @@
   },
   {
     "text": "Cada vez que enfrentamos um medo, ganhamos força, coragem e confiança para fazer isso.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Pergunte a si mesmo o segredo do seu sucesso. Ouça a sua resposta e pratique-a.",
@@ -4557,7 +4557,7 @@
   },
   {
     "text": "Se você chegar a uma bifurcação na estrada, pegue-a.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Não é apenas pelo que fazemos que somos responsáveis, mas também pelo que não fazemos.",
@@ -4565,7 +4565,7 @@
   },
   {
     "text": "Ninguém pode fazer tudo, mas todos podem fazer algo.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "O mundo costuma dar lugar ao homem cujas ações mostram que sabe para onde vai.",
@@ -4625,7 +4625,7 @@
   },
   {
     "text": "Por que se preocupar com o amanhã, quando hoje é tudo o que temos?",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Fale quando estiver com raiva e fará o melhor discurso do qual se arrependerá.",
@@ -4653,7 +4653,7 @@
   },
   {
     "text": "A maioria dos sorrisos é iniciada por outro sorriso.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Nada é mais macio ou flexível do que a água, mas nada pode resistir a ela.",
@@ -4721,7 +4721,7 @@
   },
   {
     "text": "Quando você perder, não perca a lição.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Se você deseja que algo seja bem feito, faça você mesmo.",
@@ -4749,7 +4749,7 @@
   },
   {
     "text": "Se eu pudesse estender a mão e segurar uma estrela cada vez que você me fizesse sorrir, todo o céu noturno estaria na palma da minha mão.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Somos moldados por nossos pensamentos; nos tornamos o que pensamos. Quando a mente é pura, a alegria segue como uma sombra que nunca vai embora.",
@@ -4785,7 +4785,7 @@
   },
   {
     "text": "Quanto mais íngreme for a montanha, mais difícil será a escalada, melhor será a visão da linha de chegada",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Busque o sucesso, não a perfeição. Nunca desista do seu direito de errar, pois assim você perderá a capacidade de aprender coisas novas e seguir em frente com sua vida.",
@@ -4841,7 +4841,7 @@
   },
   {
     "text": "Não deixe o que você não pode fazer o impedir de fazer o que você pode fazer.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Reclamar não muda nada, apenas agir muda.",
@@ -5181,7 +5181,7 @@
   },
   {
     "text": "Você nunca pode cruzar o oceano a menos que tenha a coragem de perder de vista a costa.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Trabalhe por algo porque é bom, não apenas porque representa uma chance de sucesso.",
@@ -5353,7 +5353,7 @@
   },
   {
     "text": "O melhor lugar para encontrar uma mão amiga é na ponta do seu braço.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Conhecemos a verdade, não só pela razão, mas também pelo coração.",
@@ -5401,7 +5401,7 @@
   },
   {
     "text": "Não tema tanto o fracasso a ponto de se recusar a tentar coisas novas. O mais triste resumo da vida contém três descrições: poderia ter, poderia ter e deveria ter.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Todos os padrões de conjuntos fixos são incapazes de adaptabilidade ou flexibilidade. A verdade está fora de todos os padrões fixos.",
@@ -5581,7 +5581,7 @@
   },
   {
     "text": "Não podemos direcionar o vento, mas podemos ajustar as velas.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Pode-se dizer que o mistério eterno do mundo é a sua compreensibilidade.",
@@ -5809,7 +5809,7 @@
   },
   {
     "text": "Desistir nem sempre significa que você é fraco; às vezes, significa que você é forte o suficiente para deixar ir.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Subir colinas íngremes requer um ritmo lento no início.",
@@ -5845,7 +5845,7 @@
   },
   {
     "text": "Muitas pessoas foram mais longe do que pensaram que poderiam porque outra pessoa pensou que poderiam.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Lemos o mundo errado e dizemos que ele nos engana.",
@@ -6093,7 +6093,7 @@
   },
   {
     "text": "Nunca me diga que o céu é o limite quando há pegadas na lua.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Não posso dizer se as coisas vão melhorar se mudarmos; o que posso dizer é que elas devem mudar para melhorar.",
@@ -6177,7 +6177,7 @@
   },
   {
     "text": "Conte suas alegrias em vez de seus infortúnios. Conte seus amigos em vez de seus inimigos.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Os sonhos tornam-se realidade. Sem essa possibilidade, a natureza não nos incitaria a tê-los.",
@@ -6373,7 +6373,7 @@
   },
   {
     "text": "Cuidado com a meia verdade. Você pode ter acertado a metade errada.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "O maior erro que você pode cometer na vida é temer continuamente que cometerá um.",
@@ -6437,7 +6437,7 @@
   },
   {
     "text": "Não é quem você é que o impede, é quem você pensa que não é.",
-    "autor": nulo
+    "autor": false
   },
   {
     "text": "Todas as crianças são artistas. O problema é como continuar a ser um artista depois de crescer.",
